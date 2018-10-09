@@ -1,0 +1,10 @@
+it takes a while to load at the beginning bc there's a lot of stuff. pls don't move until everything is there.
+
+[controls]
+arrow keys > movement
+x > menu open/close
+shift (in menu + battle) > open use item window
+enter (in menu + battle) > confirm
+# keys (in menu + battle) > choose skill/item
+
+there's music! made by me! :D
