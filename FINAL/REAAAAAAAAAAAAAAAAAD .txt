@@ -1,4 +1,4 @@
-it takes a while to load at the beginning bc there's a lot of stuff. pls don't move until everything is there.
+A little RPG puzzle game built from scratch in Java.
 
 [controls]
 arrow keys > movement
